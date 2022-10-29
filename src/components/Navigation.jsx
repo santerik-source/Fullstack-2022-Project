@@ -7,7 +7,7 @@ function Navigation() {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
-            React Multi-Page Website
+            React Multi-Page Project Site
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
@@ -23,15 +23,11 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/contact">
-                  Contact
+                <NavLink className="nav-link" to="/data">
+                  Data Fetching
                 </NavLink>
               </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/blog">
-                  Blog
-                </NavLink>
-              </li>
+
             </ul>
           </div>
         </div>

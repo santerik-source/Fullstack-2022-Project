@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Don't remove if you dont want all the files in GitHub, this file filters them.
 
 # dependencies
 /node_modules

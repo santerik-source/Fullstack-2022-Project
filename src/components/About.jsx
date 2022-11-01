@@ -11,7 +11,7 @@ function About() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
             <p>
-              Describe materials and techniques used here. All information should be located here
+              Javascript, React, HTML Elements were used to create this multi-page website. The outlook was enhanced with bootstrap.
             </p>
           </div>
         </div>
